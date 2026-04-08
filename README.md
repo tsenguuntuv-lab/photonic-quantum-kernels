@@ -152,21 +152,21 @@ Possible future steps would be:
 
 * Clone the repository:
 
-&#x09;git clone <your-repo-link>
+    git clone <your-repo-link>
 
-&#x09;cd photonic-kernel
+    cd photonic-kernel
 
 * Install dependencies:
 
-&#x09;pip install numpy matplotlib scikit-learn
+    pip install numpy matplotlib scikit-learn
 
 * Open the notebook:
 
-&#x09;jupyter notebook
+    jupyter notebook
 
 * Run all cells in:
 
-&#x09;Photonic\_kernel\_implementation\_Havlicek.ipynb
+    Photonic\_kernel\_implementation\_Havlicek.ipynb
 
 
 
