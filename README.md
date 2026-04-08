@@ -186,10 +186,10 @@ Possible future steps would be:
 
 Photonic Kernel (2-layer):
 
-!\[Photonic Kernel](Images/2layer\_photonic\_kernel\_matrix\_2moons.png)
+!\[Photonic Kernel](2layer\_photonic\_kernel\_matrix\_2moons.png)
 
 
 
 Classical RBF Kernel:
 
-!\[Classical Kernel](Images/class\_kernel\_matrix\_2moons.png)
+!\[Classical Kernel](class\_kernel\_matrix\_2moons.png)
