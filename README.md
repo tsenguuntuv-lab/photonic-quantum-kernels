@@ -193,20 +193,3 @@ Photonic Kernel (2-layer):
 Classical RBF Kernel:
 
 !\[Classical Kernel](Images/class\_kernel\_matrix\_2moons.png)
-
-
-
-Decision Boundary of photonic kernel (1-layer):
-
-!\[Decision Boundary](Images/simple\_photonic\_kernel\_decision\_boundary\_2moons.png)
-
-
-
-Decision Boundary of photonic kernel (2-layer):
-
-!\[Decision Boundary](Images/2layer\_photonic\_kernel\_decision\_boundary\_2moons.png)
-
-
-
-
-
