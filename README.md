@@ -186,10 +186,10 @@ Possible future steps would be:
 
 Photonic Kernel (2-layer):
 
-!\[Photonic Kernel](/2layer\_photonic\_kernel\_matrix\_2moons.png)
+!\[photonic-quantum-kernels](\2layer\_photonic\_kernel\_matrix\_2moons.png)
 
 
 
 Classical RBF Kernel:
 
-!\[Classical Kernel](/class\_kernel\_matrix\_2moons.png)
+!\[photonic-quantum-kernels](\class\_kernel\_matrix\_2moons.png)
