@@ -185,11 +185,7 @@ Possible future steps would be:
 **Example Results**
 
 Photonic Kernel (2-layer):
-
 <img width="1593" height="1364" alt="Image" src="https://github.com/user-attachments/assets/d34016bb-38d9-41ed-be65-0932dea473ea" />
 
-
-
 Classical RBF Kernel:
-
-!\[classical kernel](/class\_kernel\_matrix\_2moons.png)
+<img width="1593" height="1364" alt="Image" src="https://github.com/user-attachments/assets/6e936eff-a8db-4c12-b6b5-4fb9f2f639de" />
