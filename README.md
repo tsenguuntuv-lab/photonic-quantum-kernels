@@ -186,7 +186,7 @@ Possible future steps would be:
 
 Photonic Kernel (2-layer):
 
-!\[photonic kernel](/2layer\_photonic\_kernel\_matrix\_2moons.png)
+<img width="1593" height="1364" alt="Image" src="https://github.com/user-attachments/assets/d34016bb-38d9-41ed-be65-0932dea473ea" />
 
 
 
